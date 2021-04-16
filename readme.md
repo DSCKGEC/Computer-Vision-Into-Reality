@@ -1,4 +1,4 @@
-# Submission or project name
+# Air Canvas
 
 ![Air Canvas](http://infoaryan.com/wp-content/uploads/2020/06/aircanvas.jpg)
 
