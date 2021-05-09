@@ -148,7 +148,7 @@ class VideoCamera(object):
                     rpoints[red_index].appendleft(center)
                 elif colorIndex == 3:
                     ypoints[yellow_index].appendleft(center)
-        # Append the next deques when nothing is detected to avois messing up
+        # Append the next deques when nothing is detected to avoid messing up
         else:
             bpoints.append(deque(maxlen=512))
             blue_index += 1
