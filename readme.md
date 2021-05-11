@@ -1,6 +1,7 @@
-# Air Canvas
 
-![Air Canvas](http://infoaryan.com/wp-content/uploads/2020/06/aircanvas.jpg)
+# Air Canvas
+![Air Canvas](https://user-images.githubusercontent.com/56483183/117826350-b9118c80-b28d-11eb-9c76-26ba8663022c.png)
+
 
 [![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgec/project-template/pulls)
 
@@ -22,12 +23,6 @@ A simple elegant program that detect finger tip for drawing and writing...
 
 How many are fascinated by the hologramic keyboard shown in numerous sci-fic movies ? Here we are going to build a similar type project where one can draw with
 the help of their finger tips and even choose colours !
-
-## Project structure
-
-```
-To be updated soon....
-```
 
 ## Getting started
 ### This is a project that mainly uses opencv-python to build an app which draws lines based on the movements of your fingers. You can change the colour of the lines as well. One doesn't need to be an absolute expert in opencv to get started in project but you will need a little bit of opencv knowledge however. 
