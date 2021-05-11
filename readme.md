@@ -1,6 +1,10 @@
 
 # Air Canvas
+
+
 ![Air Canvas](https://user-images.githubusercontent.com/56483183/117826350-b9118c80-b28d-11eb-9c76-26ba8663022c.png)
+
+
 
 
 [![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgec/project-template/pulls)
@@ -11,8 +15,6 @@ A simple elegant program that detect finger tip for drawing and writing...
 ## Contents
 
 1. [Description](#description)
-1. [Project structure](#project-structure)
-1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
 1. [Authors](#authors)
