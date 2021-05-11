@@ -13,8 +13,6 @@ A simple elegant program that detect finger tip for drawing and writing...
 1. [Project structure](#project-structure)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
 1. [Contributing](#contributing)
 1. [Authors](#authors)
 1. [License](#license)
@@ -32,32 +30,18 @@ To be updated soon....
 ```
 
 ## Getting started
-
+### This is a project that mainly uses opencv-python to build an app which draws lines based on the movements of your fingers. You can change the colour of the lines as well. One doesn't need to be an absolute expert in opencv to get started in project but you will need a little bit of opencv knowledge however. 
 
 ### Prerequisites
+#### Just a simple laptop with internet connection will do. However don't forget to keep anaconda installed. 
 
 
 ### Installing
-
-There are two ways of running the code.
-  1. Running the code on web browser.(Google Colab) [Recommended]
-      - Head on to [Google colab](https://www.colab.research.google.com)
-      - Then click on ```Upload Notebook``` Tab.
-      - Upload the notebook that you got from this repo.
-        ![Colab-1](https://res.cloudinary.com/codehackerone/image/upload/v1618463907/ML/colab-2_c14swf.png)
-      - Connect with the runtime.
-        ![Colab-2](https://res.cloudinary.com/codehackerone/image/upload/v1618464955/ML/Colab-3_da822c.png)
-      - Upload your dataset.
-        ![Colab-3](https://res.cloudinary.com/codehackerone/image/upload/v1618464958/ML/Colab-04_sxfyjx.png)
-      - Then Click on ```Run All```.
-        ![Colab-4](https://res.cloudinary.com/codehackerone/image/upload/v1618465413/ML/colab-5_i92bzp.png)
-      - Start Editing.
-
-  2. You can also run the code locally in your computer by installing Anaconda.
-      - Install Anaconda. [Follow these steps to install Anaconda on your computer](https://www.edureka.co/blog/python-anaconda-tutorial/#:~:text=on%20our%20systems.-,Installation%20And%20Setup,the%20instructions%20in%20the%20setup.)
-      - Install jupyter notebook using ```conda```. [Follow these steps to install jupyter notebook.](https://test-jupyter.readthedocs.io/en/latest/install.html)
-      - Make sure to install ```opencv```,```numpy```, and ```collections``` to run the notebook.
-      - Start Editing.
+#### Step 1: clone the repository
+#### Step 2: Create a conda environment with "conda create -n 'name of the environment'" and then activate the environment with "conda activate 'name of the environment'"
+#### Step 3: If your conda environment already has pip installed then move to the step 4 otherwise run "conda install pip"
+#### Step 4: Install the packages that are located in the requirements.txt file with "pip install 'name of the package'"
+#### Step 5: After you are done installing, open the code in any code editor and run the code.py file inside the Air_Canvas folder
 
 #### Software Needed
  
@@ -84,10 +68,6 @@ There are two ways of running the code.
   However the code is well explained, so anyone knowing the basics of Python can get a idea of what's happenning and contribute to this. 
  
 
-
-## Live demo
-
-To be updated soon....
 
 ## Contributing
 
